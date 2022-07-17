@@ -1,0 +1,5 @@
+movie_list=['laxmii','shershaah','bhuj','tanhaji','chhapaak','war','saaho','uri','	Bharat','Housefull','Dabangg','Thackeray','Manikarnika','Kesari','Kalank','Chhichhore','war','Bala','Pagalpanti','Panipat','Sanju',
+'Padmaavat','Andhadhun','Simmba','Race','Hichki','padman','Pari','Raid','October','Raazi','Dhadak','Gold','Baazaar','Kedarnath','Zero','Raees','Kaabil','Tubelight','Phillauri','Raabta','Mom','Newton','Chef','Dangal','Sultan',
+'Rustom','Airlift','Fan','Wazir','Neerja','Piku','Baby','Dilwale','ABCD','Welcome','Badlapur','Hero','Talvar','PK','Kick','Singham','Youngistaan','Ungli','Dhoom','	Krrish','Aashiqui','Raanjhanaa','Lootera','Bahubali','Barfi',
+'Agneepath','Ishaqzaade','Cocktail','Joker','Ready','Housefull','Golmaal','Raavan','Wanted','Paa','Ghajini','Dostana','	Bhoothnath','Partner','Don','Vivah','Fanaa','Sarkar','Swades','Aitraaz','Murder','Khakee','Agnipankh','Baghban',
+'Andaaz','Devdas','Raaz','Saathiya','Lagaan','Ajnabee','Mohabbatein','Josh','Refugee']
